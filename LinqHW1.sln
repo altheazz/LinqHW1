@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqHW1_1", "LinqHW1_1\LinqHW1_1.csproj", "{4DEF2DBB-7FC1-4812-AA14-2E79BA4AE759}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqHW1_2_1A2B", "LinqHW1_2_1A2B\LinqHW1_2_1A2B.csproj", "{5DA84EEB-2BDB-42C1-9A5E-09D8A4F6E09D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4DEF2DBB-7FC1-4812-AA14-2E79BA4AE759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DEF2DBB-7FC1-4812-AA14-2E79BA4AE759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DEF2DBB-7FC1-4812-AA14-2E79BA4AE759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA84EEB-2BDB-42C1-9A5E-09D8A4F6E09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA84EEB-2BDB-42C1-9A5E-09D8A4F6E09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA84EEB-2BDB-42C1-9A5E-09D8A4F6E09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA84EEB-2BDB-42C1-9A5E-09D8A4F6E09D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

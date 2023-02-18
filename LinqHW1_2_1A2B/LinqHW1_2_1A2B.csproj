@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4DEF2DBB-7FC1-4812-AA14-2E79BA4AE759}</ProjectGuid>
+    <ProjectGuid>{5DA84EEB-2BDB-42C1-9A5E-09D8A4F6E09D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LinqHW1_1</RootNamespace>
-    <AssemblyName>LinqHW1_1</AssemblyName>
+    <RootNamespace>LinqHW1_2_1A2B</RootNamespace>
+    <AssemblyName>LinqHW1_2_1A2B</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
